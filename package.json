@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
   "name": "ro_back_CosmoDB_API_MongoDB",
-=======
-  "name": "ro_",
->>>>>>> e480e5f81dbc1c668da67183a7d9f308ac791bec
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
