@@ -1,5 +1,5 @@
 {
-  "name": "ro_back_new",
+  "name": "ro_back_CosmoDB_API_MongoDB",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
