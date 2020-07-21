@@ -9,7 +9,7 @@ const index = require('./routes/index');
 const personRoute = require('./routes/personRoute');
 
 app.use(function(req, res, next) {
-    res.header("Access-Control-Allow-Origin", "https://ro-portal.azurewebsites.net");
+    res.header("Access-Control-Allow-Origin", "https://ro-portal-dashboard.azurewebsites.net");
     res.header(
       "Access-Control-Allow-Headers",
       "Origin, X-Requested-With, Content-Type, Accept"
